@@ -1,2 +1,2 @@
 # go-grpc
-study graph
+study grpc
